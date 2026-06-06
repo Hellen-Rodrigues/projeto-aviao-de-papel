@@ -9,7 +9,8 @@ Projeto Avião de Papel - Equipe Polivalentes Desenvolvimento e análise aerodin
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo mapear os principais setores econômicos e empresas de São José dos Campos, utilizando dados oficiais para gerar análises estratégicas e apoiar a tomada de decisão.
+O objetivo do projeto é construir e testar um avião de papel capaz de atingir grandes distâncias utilizando princípios básicos da aerodinâmica
+do modelo através de medidas simétricas para um voo retilíneo, integrando a análise do tempo de montagem e cronoanálise ao processo de produção.
 
 # Equipe
 | Nome | LinkedIn & GitHub |

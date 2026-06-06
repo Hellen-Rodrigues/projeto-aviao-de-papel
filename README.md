@@ -1,5 +1,5 @@
 # projeto-aviao-de-papel
-Projeto Avião de Papel - Equipe Polivalentes Desenvolvimento e análise aerodinâmica do modelo Suzanne Glider - Distance, focado em alta velocidade, estabilidade e longo alcance.
+Projeto Avião de Papel - Este projeto foi desenvolvido na disciplina de Introdução à Engenharia de Produção e consiste na construção e avaliação do modelo "Suzanne Glider – Distance". O foco principal é a aplicação prática de conceitos de engenharia e física para alcançar o desempenho máximo em voo, alta velocidade, estabilidade e longo alcance.
 
 # Índice
 * [Equipe](#equipe)

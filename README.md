@@ -1,4 +1,4 @@
-# projeto-aviao-de-papel
+# Engenharia de Produção no Processo de montagem de um Avião de Papel
 Projeto Avião de Papel - Este projeto foi desenvolvido na disciplina de Introdução à Engenharia de Produção e consiste na construção e avaliação do modelo "Suzanne Glider – Distance". O foco principal é a aplicação prática de conceitos de engenharia e física para alcançar o desempenho máximo em voo, alta velocidade, estabilidade e longo alcance.
 
 # Índice

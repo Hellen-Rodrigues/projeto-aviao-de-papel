@@ -31,7 +31,7 @@ do modelo através de medidas simétricas para um voo retilíneo, integrando a a
 ## Ferramentas Utilizadas
 * 1 folha de papel sulfite A4
 * Superfície plana para dobragem
-* Fita adesiva transparente
+* Fita adesiva transparente (opcional)
 * Cronômetro
 * Régua
 
